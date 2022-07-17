@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Js, React
 - 😄 Pronouns: she/her
 
+
 <div align="center">
   <a href="https://github.com/Aela-ui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aela-ui&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
@@ -15,6 +16,8 @@
   <img align="center" alt="Jade-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jade-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/74927488/179422009-b7c9b69d-4759-4bb8-bfb6-2bba9c96ed3c.png?width=676&height=676">
+</div>
 
 
 ##
