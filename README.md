@@ -1,7 +1,7 @@
 ## Hi there, I'm Jade👋
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently mobile
+- 🌱 I’m currently working on mobile
 - 😄 Pronouns: she/her
 
 
