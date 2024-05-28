@@ -1,14 +1,16 @@
 <h2 align="center">Hey there, I'm <a href="https://github.com/Aela-ui">Aela</a></h2>
-<h4 align="center">I am a Information Systems professional with extensive experience in full-stack development, team leadership, and project management at Drakkar Agrotechnologies.</h4>
+<h4 align="center">I am a Information Systems professional with extensive experience in full-stack development, and project management at Qiron Robotics.</h4>
 
 
 ## Top Respositorys
   <p align="left">
+             <a href="https://https://https://github.com/Aela-ui/content-manager-next13"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=content-manager-next13&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
      <a href="https://https://github.com/Aela-ui/driving-school-system-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=driving-school-system-frontend&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
      <a href="https://https://github.com/Aela-ui/todo-list-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=todo-list-frontend&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
+         <a href="https://https://github.com/Aela-ui/todo-list-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=todo-list-backend&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
      <a href="https://https://github.com/Aela-ui/georgette-commerce-front"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=georgette-commerce-front&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
           <a href="https://https://github.com/Aela-ui/qpmudas-nextjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=qpmudas-nextjs&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
-         <a href="https://https://https://github.com/qiron-content-management-project/content-manager-next13"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=content-manager-next13&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
+
      
 
 
