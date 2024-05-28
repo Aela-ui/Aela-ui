@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff007f&section=header&reversal=true"/>
 <h2 align="center">Hey there, I'm <a href="https://github.com/Aela-ui">Aela</a></h2>
-<h4 align="center">I am a Information Systems student with experience in front-end development, and project management at Qiron Robotics.</h4>
+<h4 align="center">I am a Information Systems student with experience in front-end and mobile development, and project management at Qiron Robotics.</h4>
 
 
 ## Top Respositorys
