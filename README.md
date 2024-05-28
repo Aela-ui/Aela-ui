@@ -1,8 +1,23 @@
-## Hi there, I'm Jade👋
+<h2 align="center">Hey there, I'm <a href="https://github.com/Aela-ui">Aela</a></h2>
+<h4 align="center">I am a Information Systems professional with extensive experience in full-stack development, team leadership, and project management at Drakkar Agrotechnologies.</h4>
 
+
+## Top Respositorys
+  <p align="left">
+     <a href="https://https://github.com/Aela-ui/driving-school-system-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=driving-school-system-frontend&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://https://github.com/Aela-ui/todo-list-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=todo-list-frontend&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://https://github.com/Aela-ui/georgette-commerce-front"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=georgette-commerce-front&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
+          <a href="https://https://github.com/Aela-ui/qpmudas-nextjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=qpmudas-nextjs&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
+         <a href="https://https://https://github.com/qiron-content-management-project/content-manager-next13"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=content-manager-next13&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
+     
+
+
+  </p>
+
+## What I'm Doing
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently working on mobile
-- 😄 Pronouns: she/her
+- 😄 How to contact me: Jade Freire (Linkedin)
 
 
 <div align="center">
@@ -26,7 +41,4 @@
   <a href="https://instagram.com/jadefreirec" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jadefreire4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jade-freire-7408aa214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Aela-ui/Aela-ui/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
