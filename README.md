@@ -1,5 +1,5 @@
 <h2 align="center">Hey there, I'm <a href="https://github.com/Aela-ui">Aela</a></h2>
-<h4 align="center">I am a Information Systems professional with experience in front-end development, and project management at Qiron Robotics.</h4>
+<h4 align="center">I am a Information Systems student with experience in front-end development, and project management at Qiron Robotics.</h4>
 
 
 ## Top Respositorys
