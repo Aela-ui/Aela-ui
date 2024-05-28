@@ -1,18 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff007f&section=header&reversal=true"/>
 <h2 align="center">Hey there, I'm <a href="https://github.com/Aela-ui">Aela</a></h2>
 <h4 align="center">I am a Information Systems student with experience in front-end development, and project management at Qiron Robotics.</h4>
 
 
 ## Top Respositorys
   <p align="left">
-             <a href="https://https://https://github.com/Aela-ui/content-manager-next13"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=content-manager-next13&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
-     <a href="https://https://github.com/Aela-ui/driving-school-system-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=driving-school-system-frontend&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
-     <a href="https://https://github.com/Aela-ui/todo-list-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=todo-list-frontend&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
-         <a href="https://https://github.com/Aela-ui/todo-list-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=todo-list-backend&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
-     <a href="https://https://github.com/Aela-ui/georgette-commerce-front"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=georgette-commerce-front&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
-          <a href="https://https://github.com/Aela-ui/qpmudas-nextjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=qpmudas-nextjs&theme=monokai&show_icons=false" alt="github-readme-streak-stats"></a>
-
-     
-
+             <a href="https://https://https://github.com/Aela-ui/content-manager-next13"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=content-manager-next13&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://https://github.com/Aela-ui/driving-school-system-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=driving-school-system-frontend&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://https://github.com/Aela-ui/todo-list-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=todo-list-frontend&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+         <a href="https://https://github.com/Aela-ui/todo-list-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=todo-list-backend&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://https://github.com/Aela-ui/georgette-commerce-front"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=georgette-commerce-front&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+          <a href="https://https://github.com/Aela-ui/qpmudas-nextjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=qpmudas-nextjs&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
   </p>
 
@@ -24,8 +22,8 @@
 
 <div align="center">
   <a href="https://github.com/Aela-ui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aela-ui&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aela-ui&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aela-ui&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aela-ui&layout=compact&langs_count=7&theme=monokai&hide_border=true"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -44,3 +42,5 @@
   <a href = "mailto:jadefreire4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jade-freire-7408aa214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff007f&section=footer&reversal=true"/>
