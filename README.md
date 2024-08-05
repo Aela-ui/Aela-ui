@@ -10,7 +10,7 @@
      <a href="https://https://github.com/Aela-ui/todo-list-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=todo-list-frontend&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
          <a href="https://https://github.com/Aela-ui/todo-list-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=todo-list-backend&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
      <a href="https://https://github.com/Aela-ui/georgette-commerce-front"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=georgette-commerce-front&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-          <a href="https://https://github.com/Aela-ui/qpmudas-nextjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=qpmudas-nextjs&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+          <a href="https://https://https://github.com/Aela-ui/qpmudas-nextjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aela-ui&repo=qpmudas-nextjs&theme=monokai&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
   </p>
 
