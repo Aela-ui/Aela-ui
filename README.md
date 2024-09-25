@@ -19,12 +19,13 @@
 - 🌱 I’m currently working on mobile
 - 😄 How to contact me: Jade Freire (Linkedin)
 
+## Activity On GitHub
+<p align="center">
+  <a href="https://github.com/Aela-ui">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aela-ui&theme=monokai&hide_border=true"/>
+</a> 
+</p>
 
-<div align="center">
-  <a href="https://github.com/Aela-ui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aela-ui&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aela-ui&layout=compact&langs_count=7&theme=monokai&hide_border=true"/>
-</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Jade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
